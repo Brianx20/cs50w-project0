@@ -25,13 +25,23 @@
     background-image: url("Logo.jpg");
     background-position: center center;
     object-fit: cover;
-    height: 100vh;
+    width: auto;
+    height: 85vh;
     background-repeat: no-repeat;
     background-size: cover;
     margin-top: 0%;
     margin-left: 1%;
-    padding-bottom: 45%;
+    padding-bottom: 0% auto;
 }
 #table{
     height: 45vh;
+}
+.cuadro{
+    background-color: #ccc;
+    border-top-left-radius:20px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    margin-top: 50%;
+    text-align: center;
 }

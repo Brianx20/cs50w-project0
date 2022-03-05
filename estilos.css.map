@@ -1,9 +1,1 @@
-{
-    "version": 3,
-    "mappings": "AAIA,AAAA,GAAG,CAAA;EACC,gBAAgB,EAHZ,IAAI;EAIR,sBAAsB,EAAE,IAAI;EAC5B,uBAAuB,EAAE,IAAI;EAC7B,0BAA0B,EAAE,IAAI;EAChC,yBAAyB,EAAE,IAAI;EAC/B,UAAU,EAAE,GAAG;CAOlB;;AAbD,AAQI,GARD,CAQC,EAAE,CAAA;EACE,IAAI,EAbE,iBAAiB,EAAE,KAAK,EAAE,KAAK;EAcrC,KAAK,EAbC,IAAI;CAcb",
-    "sources": [
-        "estilos.scss"
-    ],
-    "names": [],
-    "file": "estilos.css"
-}
+{"version":3,"sourceRoot":"","sources":["estilos.scss"],"names":[],"mappings":"AAIA;EACI;;;AAGJ;EACI;EACA;EACA;EACA;EACA;EACA;EACA;;;AAGJ;EACI,kBAjBI;EAkBJ;EACA;EACA;EACA;EACA;EACA;EACA;;AACA;EACI,aA5BM;EA6BN,OA5BM","file":"estilos.css"}
