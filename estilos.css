@@ -9,7 +9,7 @@ body {
   width: auto;
   height: auto;
   margin: 0 auto;
-  justify-content: center;
+  justify-content: space-around;
 }
 
 .caja {
@@ -22,8 +22,8 @@ body {
   margin: 5px;
   overflow: hidden;
 }
-.caja h2 {
-  font-family: "Times New Roman", Times, serif;
+.caja h6 {
+  font-family: "Lucida Console", "Courier New", monospace;
   color: #000;
 }
 
